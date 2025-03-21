@@ -1,3 +1,4 @@
+import pdf from '/Resume.pdf';
 import projectsJson from '../assets/data/projects.json';
 
 export default function AboutMe() {
@@ -14,10 +15,11 @@ export default function AboutMe() {
         <a href={projectsJson.github} target='_blank'>
           <button className="border border-white rounded-lg p-2 cursor-pointer transition hover:bg-white hover:text-black">GitHub</button>
         </a>
+
         <a href={projectsJson.linkedin} target='_blank'>
           <button className="border border-white rounded-lg p-2 cursor-pointer transition hover:bg-white hover:text-black">Indeed</button>
         </a>
-        <a href={'/'} target='_blank'>
+        <a href={pdf} target='_blank'>
           <button className="border border-white rounded-lg p-2 cursor-pointer transition hover:bg-white hover:text-black">Resume</button>
         </a>
       </div>
