@@ -1,6 +1,6 @@
 {
   "linkedin": "https://linked.in/in/anmol--thapa",
-  "github": "https://github.com/lxve23",
+  "github": "https://github.com/anmol-thapa",
   "skills": [
     {
       "name": "react",
@@ -57,8 +57,8 @@
         "heroku"
       ],
       "description": "A chatbot where you can talk to the angel and the devil on your shoulders.",
-      "githubLink": "https://github.com/lxve23/angeldevil-chatbot-frontend",
-      "demoLink": "https://lxve23.github.io/angeldevil-chatbot-frontend/"
+      "githubLink": "https://github.com/anmol-thapa/angeldevil-chatbot-frontend",
+      "demoLink": "https://anmol-thapa.github.io/angeldevil-chatbot-frontend/"
     },
     {
       "name": "Get Off Your Phone",
@@ -68,7 +68,7 @@
         "unity"
       ],
       "description": "Use your device and raise your dopamine levels while avoiding your parents.",
-      "githubLink": "https://github.com/lxve23/Get-Off-Your-Phone",
+      "githubLink": "https://github.com/anmol-thapa/Get-Off-Your-Phone",
       "demoLink": null
     },
     {
