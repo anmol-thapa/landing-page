@@ -1,0 +1,87 @@
+{
+  "linkedin": "https://linked.in/in/anmol--thapa",
+  "github": "https://github.com/lxve23",
+  "skills": [
+    {
+      "name": "react",
+      "icon": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+    },
+    {
+      "name": "flutter",
+      "icon": "https://img.icons8.com/color/512/flutter.png"
+    },
+    {
+      "name": "heroku",
+      "icon": "https://cdn-icons-png.flaticon.com/512/873/873120.png"
+    },
+    {
+      "name": "unity",
+      "icon": "https://img.icons8.com/?size=512&id=39848&format=png&color=FFFFFF"
+    },
+    {
+      "name": "figma",
+      "icon": "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png"
+    }
+  ],
+  
+  "projects": [
+    {
+      "name": "WahooWallet",
+      "startDate": "12/2/2024",
+      "endDate": null,
+      "skills": [
+        "react"
+      ],
+      "description": "A UVA club project designing a wallet app tailored for UVA students.",
+      "githubLink": "https://github.com/Project-Code-UVA/WahooWallet",
+      "demoLink": null
+    },
+    {
+      "name": "Artificial Intelligence",
+      "startDate": "1/3/2025",
+      "endDate": null,
+      "skills": [
+        "flutter",
+        "figma"
+      ],
+      "description": "A calorie tracking app utilizing AI to figure out eating habits.",
+      "githubLink": null,
+      "demoLink": null
+    },
+    {
+      "name": "Angel Devil Chatbot",
+      "startDate": "09/24/2024",
+      "endDate": "01/19/2025",
+      "skills": [
+        "react",
+        "heroku"
+      ],
+      "description": "A chatbot where you can talk to the angel and the devil on your shoulders.",
+      "githubLink": "https://github.com/lxve23/angeldevil-chatbot-frontend",
+      "demoLink": "https://anmolthapa.dev"
+    },
+    {
+      "name": "Get Off Your Phone",
+      "startDate": "03/01/2024",
+      "endDate": "04/01/2024",
+      "skills": [
+        "unity"
+      ],
+      "description": "Use your device and raise your dopamine levels while avoiding your parents.",
+      "githubLink": null,
+      "demoLink": null
+    },
+    {
+      "name": "Cosaint",
+      "startDate": "02/01/2025",
+      "endDate": null,
+      "skills": [
+        "unity"
+      ],
+      "description": "A UVA club tower defense game where you defend your lighthouse from enemies using spells.",
+      "links": true,
+      "githubLink": "https://github.com/UVASGD/spring-2025-cosaint",
+      "demoLink": null
+    }
+  ]
+}
